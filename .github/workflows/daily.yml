@@ -15,7 +15,7 @@ jobs:
       with:
         python-version: '3.10'
     - name: Install all necessary packages
-      run: pip install jupyter lxml pandas requests beautifulsoup4
+      run: pip install jupyter lxml pandas requests beautifulsoup4 playwright
     - name: Scraping today's data
       run: jupyter nbconvert --to notebook --execute "1_energy_prices_scrape.ipynb" --stdout
     - name: Append the data to the csv with all days
