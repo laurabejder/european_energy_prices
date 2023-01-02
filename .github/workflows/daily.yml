@@ -18,7 +18,7 @@ jobs:
       run: pip install jupyter lxml pandas requests beautifulsoup4
     - name: Scraping today's data
       run: jupyter nbconvert --to notebook --execute "1_energy_prices_scrape.ipynb" --stdout
-    - name: Reformatting from long to wide data
+    - name: Append the data to the csv with all days
       run: jupyter nbconvert --to notebook --execute "2_several_days.ipynb" --stdout
     - name: Commit and push any changes
       run: |-
