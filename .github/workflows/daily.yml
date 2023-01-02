@@ -22,6 +22,8 @@ jobs:
       run: jupyter nbconvert --to notebook --execute "1_energy_prices_scrape.ipynb" --stdout
     - name: Append the data to the csv with all days
       run: jupyter nbconvert --to notebook --execute "2_several_days.ipynb" --stdout
+    - name: Reformat the data
+      run: jupyter nbconvert --to notebook --execute "3_reformatting_data.ipynb" --stdout
     - name: Commit and push any changes
       run: |-
         git config user.name "Automated"
