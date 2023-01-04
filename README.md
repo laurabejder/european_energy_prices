@@ -1,1 +1,1 @@
-# european_energy_prices
+# European energy prices
