@@ -1,0 +1,401 @@
+date,country,price(eur/mwh)
+01.12.2022,Albania,
+01.12.2022,Austria,393.0
+01.12.2022,Belgium,388.0
+01.12.2022,Bosnia and Herzegovenia,
+01.12.2022,Bulgaria,330.0
+01.12.2022,Croatia,385.0
+01.12.2022,Cyprus,
+01.12.2022,Czech Republic,394.0
+01.12.2022,Denmark,394.0
+01.12.2022,Estonia,395.0
+01.12.2022,Finland,393.0
+01.12.2022,France,391.0
+01.12.2022,Georgia,
+01.12.2022,Germany,394.0
+01.12.2022,Greece,330.0
+01.12.2022,Hungary,397.0
+01.12.2022,Ireland,329.0
+01.12.2022,Italy,376.0
+01.12.2022,Kosovo,
+01.12.2022,Latvia,395.0
+01.12.2022,Lithuania,395.0
+01.12.2022,Luxembourg,394.0
+01.12.2022,Malta,
+01.12.2022,Moldova,
+01.12.2022,Montenegro,
+01.12.2022,Netherlands,360.0
+01.12.2022,North Macedonia,
+01.12.2022,Norway,318.0
+01.12.2022,Poland,240.0
+01.12.2022,Portugal,150.0
+01.12.2022,Romania,330.0
+01.12.2022,Serbia,391.0
+01.12.2022,Slovakia,396.0
+01.12.2022,Slovenia,390.0
+01.12.2022,Spain,150.0
+01.12.2022,Sweden,392.0
+01.12.2022,Switzerland,399.0
+01.12.2022,Turkey,
+01.12.2022,Ukraine,
+01.12.2022,United Kingdom,
+02.12.2022,Albania,
+02.12.2022,Austria,380.0
+02.12.2022,Belgium,370.0
+02.12.2022,Bosnia and Herzegovenia,
+02.12.2022,Bulgaria,389.0
+02.12.2022,Croatia,388.0
+02.12.2022,Cyprus,
+02.12.2022,Czech Republic,356.0
+02.12.2022,Denmark,333.0
+02.12.2022,Estonia,369.0
+02.12.2022,Finland,367.0
+02.12.2022,France,385.0
+02.12.2022,Georgia,
+02.12.2022,Germany,339.0
+02.12.2022,Greece,381.0
+02.12.2022,Hungary,406.0
+02.12.2022,Ireland,371.0
+02.12.2022,Italy,377.0
+02.12.2022,Kosovo,
+02.12.2022,Latvia,369.0
+02.12.2022,Lithuania,369.0
+02.12.2022,Luxembourg,339.0
+02.12.2022,Malta,
+02.12.2022,Moldova,
+02.12.2022,Montenegro,
+02.12.2022,Netherlands,341.0
+02.12.2022,North Macedonia,
+02.12.2022,Norway,277.0
+02.12.2022,Poland,224.0
+02.12.2022,Portugal,128.0
+02.12.2022,Romania,389.0
+02.12.2022,Serbia,397.0
+02.12.2022,Slovakia,390.0
+02.12.2022,Slovenia,382.0
+02.12.2022,Spain,128.0
+02.12.2022,Sweden,332.0
+02.12.2022,Switzerland,395.0
+02.12.2022,Turkey,
+02.12.2022,Ukraine,
+02.12.2022,United Kingdom,
+03.12.2022,Albania,
+03.12.2022,Austria,295.0
+03.12.2022,Belgium,303.0
+03.12.2022,Bosnia and Herzegovenia,
+03.12.2022,Bulgaria,301.0
+03.12.2022,Croatia,299.0
+03.12.2022,Cyprus,
+03.12.2022,Czech Republic,291.0
+03.12.2022,Denmark,262.0
+03.12.2022,Estonia,336.0
+03.12.2022,Finland,317.0
+03.12.2022,France,308.0
+03.12.2022,Georgia,
+03.12.2022,Germany,282.0
+03.12.2022,Greece,297.0
+03.12.2022,Hungary,301.0
+03.12.2022,Ireland,326.0
+03.12.2022,Italy,307.0
+03.12.2022,Kosovo,
+03.12.2022,Latvia,336.0
+03.12.2022,Lithuania,336.0
+03.12.2022,Luxembourg,282.0
+03.12.2022,Malta,
+03.12.2022,Moldova,
+03.12.2022,Montenegro,
+03.12.2022,Netherlands,300.0
+03.12.2022,North Macedonia,
+03.12.2022,Norway,230.0
+03.12.2022,Poland,229.0
+03.12.2022,Portugal,120.0
+03.12.2022,Romania,301.0
+03.12.2022,Serbia,309.0
+03.12.2022,Slovakia,301.0
+03.12.2022,Slovenia,298.0
+03.12.2022,Spain,120.0
+03.12.2022,Sweden,262.0
+03.12.2022,Switzerland,314.0
+03.12.2022,Turkey,
+03.12.2022,Ukraine,
+03.12.2022,United Kingdom,
+04.12.2022,Albania,
+04.12.2022,Austria,276.0
+04.12.2022,Belgium,317.0
+04.12.2022,Bosnia and Herzegovenia,
+04.12.2022,Bulgaria,276.0
+04.12.2022,Croatia,278.0
+04.12.2022,Cyprus,
+04.12.2022,Czech Republic,272.0
+04.12.2022,Denmark,264.0
+04.12.2022,Estonia,305.0
+04.12.2022,Finland,305.0
+04.12.2022,France,307.0
+04.12.2022,Georgia,
+04.12.2022,Germany,269.0
+04.12.2022,Greece,285.0
+04.12.2022,Hungary,275.0
+04.12.2022,Ireland,290.0
+04.12.2022,Italy,306.0
+04.12.2022,Kosovo,
+04.12.2022,Latvia,305.0
+04.12.2022,Lithuania,305.0
+04.12.2022,Luxembourg,269.0
+04.12.2022,Malta,
+04.12.2022,Moldova,
+04.12.2022,Montenegro,
+04.12.2022,Netherlands,306.0
+04.12.2022,North Macedonia,
+04.12.2022,Norway,229.0
+04.12.2022,Poland,153.0
+04.12.2022,Portugal,190.0
+04.12.2022,Romania,276.0
+04.12.2022,Serbia,276.0
+04.12.2022,Slovakia,274.0
+04.12.2022,Slovenia,279.0
+04.12.2022,Spain,190.0
+04.12.2022,Sweden,264.0
+04.12.2022,Switzerland,308.0
+04.12.2022,Turkey,
+04.12.2022,Ukraine,
+04.12.2022,United Kingdom,
+05.12.2022,Albania,
+05.12.2022,Austria,344.0
+05.12.2022,Belgium,376.0
+05.12.2022,Bosnia and Herzegovenia,
+05.12.2022,Bulgaria,336.0
+05.12.2022,Croatia,342.0
+05.12.2022,Cyprus,
+05.12.2022,Czech Republic,326.0
+05.12.2022,Denmark,306.0
+05.12.2022,Estonia,338.0
+05.12.2022,Finland,293.0
+05.12.2022,France,373.0
+05.12.2022,Georgia,
+05.12.2022,Germany,341.0
+05.12.2022,Greece,337.0
+05.12.2022,Hungary,339.0
+05.12.2022,Ireland,327.0
+05.12.2022,Italy,360.0
+05.12.2022,Kosovo,
+05.12.2022,Latvia,338.0
+05.12.2022,Lithuania,338.0
+05.12.2022,Luxembourg,341.0
+05.12.2022,Malta,
+05.12.2022,Moldova,
+05.12.2022,Montenegro,
+05.12.2022,Netherlands,351.0
+05.12.2022,North Macedonia,
+05.12.2022,Norway,241.0
+05.12.2022,Poland,195.0
+05.12.2022,Portugal,209.0
+05.12.2022,Romania,336.0
+05.12.2022,Serbia,356.0
+05.12.2022,Slovakia,336.0
+05.12.2022,Slovenia,344.0
+05.12.2022,Spain,209.0
+05.12.2022,Sweden,283.0
+05.12.2022,Switzerland,381.0
+05.12.2022,Turkey,
+05.12.2022,Ukraine,
+05.12.2022,United Kingdom,
+06.12.2022,Albania,
+06.12.2022,Austria,390.0
+06.12.2022,Belgium,404.0
+06.12.2022,Bosnia and Herzegovenia,
+06.12.2022,Bulgaria,396.0
+06.12.2022,Croatia,390.0
+06.12.2022,Cyprus,
+06.12.2022,Czech Republic,369.0
+06.12.2022,Denmark,386.0
+06.12.2022,Estonia,384.0
+06.12.2022,Finland,244.0
+06.12.2022,France,418.0
+06.12.2022,Georgia,
+06.12.2022,Germany,386.0
+06.12.2022,Greece,401.0
+06.12.2022,Hungary,398.0
+06.12.2022,Ireland,352.0
+06.12.2022,Italy,388.0
+06.12.2022,Kosovo,
+06.12.2022,Latvia,384.0
+06.12.2022,Lithuania,384.0
+06.12.2022,Luxembourg,386.0
+06.12.2022,Malta,
+06.12.2022,Moldova,
+06.12.2022,Montenegro,
+06.12.2022,Netherlands,349.0
+06.12.2022,North Macedonia,
+06.12.2022,Norway,268.0
+06.12.2022,Poland,226.0
+06.12.2022,Portugal,153.0
+06.12.2022,Romania,396.0
+06.12.2022,Serbia,398.0
+06.12.2022,Slovakia,393.0
+06.12.2022,Slovenia,402.0
+06.12.2022,Spain,153.0
+06.12.2022,Sweden,279.0
+06.12.2022,Switzerland,407.0
+06.12.2022,Turkey,
+06.12.2022,Ukraine,
+06.12.2022,United Kingdom,
+07.12.2022,Albania,
+07.12.2022,Austria,366.0
+07.12.2022,Belgium,407.0
+07.12.2022,Bosnia and Herzegovenia,
+07.12.2022,Bulgaria,363.0
+07.12.2022,Croatia,370.0
+07.12.2022,Cyprus,
+07.12.2022,Czech Republic,336.0
+07.12.2022,Denmark,332.0
+07.12.2022,Estonia,340.0
+07.12.2022,Finland,339.0
+07.12.2022,France,430.0
+07.12.2022,Georgia,
+07.12.2022,Germany,325.0
+07.12.2022,Greece,345.0
+07.12.2022,Hungary,373.0
+07.12.2022,Ireland,363.0
+07.12.2022,Italy,371.0
+07.12.2022,Kosovo,
+07.12.2022,Latvia,340.0
+07.12.2022,Lithuania,340.0
+07.12.2022,Luxembourg,325.0
+07.12.2022,Malta,
+07.12.2022,Moldova,
+07.12.2022,Montenegro,
+07.12.2022,Netherlands,340.0
+07.12.2022,North Macedonia,
+07.12.2022,Norway,260.0
+07.12.2022,Poland,188.0
+07.12.2022,Portugal,142.0
+07.12.2022,Romania,363.0
+07.12.2022,Serbia,349.0
+07.12.2022,Slovakia,360.0
+07.12.2022,Slovenia,373.0
+07.12.2022,Spain,142.0
+07.12.2022,Sweden,338.0
+07.12.2022,Switzerland,407.0
+07.12.2022,Turkey,
+07.12.2022,Ukraine,
+07.12.2022,United Kingdom,
+08.12.2022,Albania,
+08.12.2022,Austria,390.0
+08.12.2022,Belgium,414.0
+08.12.2022,Bosnia and Herzegovenia,
+08.12.2022,Bulgaria,349.0
+08.12.2022,Croatia,366.0
+08.12.2022,Cyprus,
+08.12.2022,Czech Republic,386.0
+08.12.2022,Denmark,388.0
+08.12.2022,Estonia,388.0
+08.12.2022,Finland,364.0
+08.12.2022,France,417.0
+08.12.2022,Georgia,
+08.12.2022,Germany,388.0
+08.12.2022,Greece,338.0
+08.12.2022,Hungary,385.0
+08.12.2022,Ireland,412.0
+08.12.2022,Italy,359.0
+08.12.2022,Kosovo,
+08.12.2022,Latvia,388.0
+08.12.2022,Lithuania,388.0
+08.12.2022,Luxembourg,388.0
+08.12.2022,Malta,
+08.12.2022,Moldova,
+08.12.2022,Montenegro,
+08.12.2022,Netherlands,369.0
+08.12.2022,North Macedonia,
+08.12.2022,Norway,314.0
+08.12.2022,Poland,213.0
+08.12.2022,Portugal,122.0
+08.12.2022,Romania,381.0
+08.12.2022,Serbia,362.0
+08.12.2022,Slovakia,386.0
+08.12.2022,Slovenia,404.0
+08.12.2022,Spain,122.0
+08.12.2022,Sweden,332.0
+08.12.2022,Switzerland,401.0
+08.12.2022,Turkey,
+08.12.2022,Ukraine,
+08.12.2022,United Kingdom,
+09.12.2022,Albania,
+09.12.2022,Austria,415.0
+09.12.2022,Belgium,438.0
+09.12.2022,Bosnia and Herzegovenia,
+09.12.2022,Bulgaria,339.0
+09.12.2022,Croatia,366.0
+09.12.2022,Cyprus,
+09.12.2022,Czech Republic,401.0
+09.12.2022,Denmark,410.0
+09.12.2022,Estonia,408.0
+09.12.2022,Finland,408.0
+09.12.2022,France,448.0
+09.12.2022,Georgia,
+09.12.2022,Germany,411.0
+09.12.2022,Greece,298.0
+09.12.2022,Hungary,407.0
+09.12.2022,Ireland,420.0
+09.12.2022,Italy,333.0
+09.12.2022,Kosovo,
+09.12.2022,Latvia,408.0
+09.12.2022,Lithuania,408.0
+09.12.2022,Luxembourg,411.0
+09.12.2022,Malta,
+09.12.2022,Moldova,
+09.12.2022,Montenegro,
+09.12.2022,Netherlands,414.0
+09.12.2022,North Macedonia,
+09.12.2022,Norway,332.0
+09.12.2022,Poland,232.0
+09.12.2022,Portugal,142.0
+09.12.2022,Romania,339.0
+09.12.2022,Serbia,276.0
+09.12.2022,Slovakia,405.0
+09.12.2022,Slovenia,416.0
+09.12.2022,Spain,144.0
+09.12.2022,Sweden,356.0
+09.12.2022,Switzerland,420.0
+09.12.2022,Turkey,
+09.12.2022,Ukraine,
+09.12.2022,United Kingdom,
+10.12.2022,Albania,
+10.12.2022,Austria,352.0
+10.12.2022,Belgium,364.0
+10.12.2022,Bosnia and Herzegovenia,
+10.12.2022,Bulgaria,320.0
+10.12.2022,Croatia,266.0
+10.12.2022,Cyprus,
+10.12.2022,Czech Republic,348.0
+10.12.2022,Denmark,355.0
+10.12.2022,Estonia,352.0
+10.12.2022,Finland,328.0
+10.12.2022,France,370.0
+10.12.2022,Georgia,
+10.12.2022,Germany,355.0
+10.12.2022,Greece,286.0
+10.12.2022,Hungary,337.0
+10.12.2022,Ireland,361.0
+10.12.2022,Italy,312.0
+10.12.2022,Kosovo,
+10.12.2022,Latvia,352.0
+10.12.2022,Lithuania,352.0
+10.12.2022,Luxembourg,355.0
+10.12.2022,Malta,
+10.12.2022,Moldova,
+10.12.2022,Montenegro,
+10.12.2022,Netherlands,356.0
+10.12.2022,North Macedonia,
+10.12.2022,Norway,297.0
+10.12.2022,Poland,230.0
+10.12.2022,Portugal,125.0
+10.12.2022,Romania,320.0
+10.12.2022,Serbia,271.0
+10.12.2022,Slovakia,342.0
+10.12.2022,Slovenia,383.0
+10.12.2022,Spain,125.0
+10.12.2022,Sweden,294.0
+10.12.2022,Switzerland,372.0
+10.12.2022,Turkey,
+10.12.2022,Ukraine,
+10.12.2022,United Kingdom,
