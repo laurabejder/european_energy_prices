@@ -11,4 +11,10 @@ The file `index.html` contains the code for the website https://laurabejder.gith
 - `4_earlier_data.ipynb`: This notebook does not run daily but contains the code for a scrape of the energy prices from December 1st, 2022 to January 4th, 2023. By changing the dates, the notebook can easily be expanded to include more past days or focus on a particular timeframe. (e.g., February 2022 if one wants to examine the effect of the Russian invasion of Ukraine).
 
 ### Inside the `data` directory:
-- 
+- `europaenergy_today.csv`
+- `europaenergy.csv`
+- `links.csv`
+- `price_wide.csv`
+- `prices_long.csv`
+- `prices_today_hourly`
+- `today_price_long.csv`
