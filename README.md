@@ -11,10 +11,10 @@ The file `index.html` contains the code for the website https://laurabejder.gith
 - `4_earlier_data.ipynb`: This notebook does not run daily but contains the code for a scrape of the energy prices from December 1st, 2022 to January 4th, 2023. By changing the dates, the notebook can easily be expanded to include more past days or focus on a particular timeframe. (e.g., February 2022 if one wants to examine the effect of the Russian invasion of Ukraine).
 
 ### Inside the `data` directory:
-- `europaenergy_today.csv`: today's scrape of prices broken down to the hour. Includes the countries in ENTSO-E's system where the prices are missing. 
-- `europaenergy.csv`: 
-- `links.csv`
-- `price_wide.csv`
-- `prices_long.csv`
-- `prices_today_hourly`
-- `today_price_long.csv`
+- `europaenergy_today.csv`: Today's scrape of prices broken down to the hour. Includes the countries in ENTSO-E's system where the prices are missing. 
+- `europaenergy.csv`: The hourly prices for all countries since January 5th, 2023
+- `links.csv`: File containing all the links for the scrape. One link per country. If several transmission system operators cover the same country, then the csv include a link for each TSO. Some of the links will provide missing values since the prices aren't published, but they are included in the case the prices become available later on. 
+- `price_wide.csv`: Longitudinal data of the average daily prices for each country. Wide version that is used for visualization. 
+- `prices_long.csv`: Longitudinal data of the average daily prices for each country. Long version.
+- `prices_today_hourly`:
+- `today_price_long.csv`:
