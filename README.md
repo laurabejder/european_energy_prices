@@ -16,5 +16,5 @@ The file `index.html` contains the code for the website https://laurabejder.gith
 - `links.csv`: File containing all the links for the scrape. One link per country. If several transmission system operators cover the same country, then the csv include a link for each TSO. Some of the links will provide missing values since the prices aren't published, but they are included in the case the prices become available later on. 
 - `price_wide.csv`: Longitudinal data of the average daily prices for each country. Wide version that is used for visualization. 
 - `prices_long.csv`: Longitudinal data of the average daily prices for each country. Long version.
-- `prices_today_hourly`:
-- `today_price_long.csv`:
+- `prices_today_hourly`: Today's prices on an hourly basis. Cleaned up and wide version of `europaenergy_today.csv`. Missing values are excluded. 
+- `today_price_long.csv`: Today's daily average prices in each country.
