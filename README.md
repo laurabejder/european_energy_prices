@@ -5,7 +5,7 @@ This repository contains the code to an automated daily scraper of the energy pr
 ### Notebooks
 - `1_energy_prices_scrape.ipynb`: This notebook scrapes the day-ahead energy prices from the European Network of Transmission System Operators for Electricity's (ENTSO-E) [website](https://transparency.entsoe.eu/transmission-domain/r2/dayAheadPrices/show?name=&defaultValue=false&viewType=GRAPH&areaType=BZN&atch=false&dateTime.dateTime=06.01.2023+00:00|CET|DAY&biddingZone.values=CTY|10YSE-1--------K!BZN|10Y1001A1001A47J&resolution.values=PT15M&resolution.values=PT30M&resolution.values=PT60M&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2)). ENTSO-E is the association for the cooperation of the European transmission system operators (TSOs), and thus has data on most European countries. 
 
-###Inside the `data` directory:
+### Inside the `data` directory:
 Scrapers written using Playwright (mostly) for pending murder cases from courts of five different districts in Maharashtra state of India.
 The data on the website gets updated every single day.
 The data was scraped within a span of three days in the first week of December 2022.
