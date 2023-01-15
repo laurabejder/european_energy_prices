@@ -1,5 +1,4 @@
 date,country,area,mtu,price(currency/mwh),price(eur/mwh)
-<<<<<<< HEAD
 01/15/2023,Albania,BZN AL,00:00 - 01:00,,
 01/15/2023,Albania,BZN AL,01:00 - 02:00,,
 01/15/2023,Albania,BZN AL,02:00 - 03:00,,
@@ -3793,4 +3792,3 @@ date,country,area,mtu,price(currency/mwh),price(eur/mwh)
 01/14/2023,United Kingdom,BZN GB(IFA2),21:00 - 22:00,,
 01/14/2023,United Kingdom,BZN GB(IFA2),22:00 - 23:00,,
 01/14/2023,United Kingdom,BZN GB(IFA2),23:00 - 00:00,,
->>>>>>> 4f06079d6e05ef1fb6e34fb2fa3299e6074ee342
