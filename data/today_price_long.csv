@@ -1,80 +1,41 @@
 country,price(eur/mwh)
 Albania,
-<<<<<<< HEAD
-Austria,83.0
-Belgium,38.0
+Austria,135.0
+Belgium,136.0
 Bosnia and Herz.,
-Bulgaria,96.0
-Croatia,90.0
+Bulgaria,130.0
+Croatia,126.0
 Cyprus,
-Czech Rep.,93.0
-Denmark,14.0
-Estonia,18.0
-Finland,18.0
-France,35.0
+Czech Rep.,130.0
+Denmark,110.0
+Estonia,78.0
+Finland,71.0
+France,135.0
 Georgia,
-Germany,9.0
-Greece,203.0
-Hungary,98.0
-Ireland,118.0
-Italy,142.0
+Germany,129.0
+Greece,204.0
+Hungary,132.0
+Ireland,204.0
+Italy,132.0
 Kosovo,
-Latvia,18.0
-Lithuania,18.0
-Luxembourg,9.0
+Latvia,78.0
+Lithuania,80.0
+Luxembourg,129.0
 Malta,
 Moldova,
 Montenegro,
-Netherlands,78.0
+Netherlands,133.0
 North Macedonia,
-Norway,63.0
-Poland,69.0
-Portugal,22.0
-Romania,96.0
-Serbia,110.0
-Slovakia,99.0
-Slovenia,85.0
-Spain,22.0
-Sweden,18.0
-Switzerland,157.0
-=======
-Austria,119.0
-Belgium,57.0
-Bosnia and Herz.,
-Bulgaria,188.0
-Croatia,137.0
-Cyprus,
-Czech Rep.,100.0
-Denmark,45.0
-Estonia,65.0
-Finland,65.0
-France,56.0
-Georgia,
-Germany,29.0
-Greece,234.0
-Hungary,145.0
-Ireland,125.0
-Italy,161.0
-Kosovo,
-Latvia,65.0
-Lithuania,65.0
-Luxembourg,29.0
-Malta,
-Moldova,
-Montenegro,
-Netherlands,94.0
-North Macedonia,
-Norway,78.0
-Poland,92.0
-Portugal,53.0
-Romania,188.0
-Serbia,151.0
-Slovakia,121.0
-Slovenia,122.0
-Spain,53.0
-Sweden,55.0
-Switzerland,161.0
->>>>>>> 4f06079d6e05ef1fb6e34fb2fa3299e6074ee342
+Norway,114.0
+Poland,130.0
+Portugal,13.0
+Romania,130.0
+Serbia,140.0
+Slovakia,132.0
+Slovenia,137.0
+Spain,13.0
+Sweden,75.0
+Switzerland,153.0
 Turkey,
 Ukraine,
 United Kingdom,
