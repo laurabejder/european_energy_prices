@@ -1199,7 +1199,7 @@
 37,02/03/2023,Turkey,
 38,02/03/2023,Ukraine,
 39,02/03/2023,United Kingdom,
-<<<<<<< Updated upstream
+<<<<<<< Updated upstream,,,
 0,02/04/2023,Albania,
 1,02/04/2023,Austria,147.0
 2,02/04/2023,Belgium,152.0
@@ -1720,6 +1720,7 @@
 37,02/16/2023,Turkey,
 38,02/16/2023,Ukraine,
 39,02/16/2023,United Kingdom,
+<<<<<<< Updated upstream,,,
 0,02/17/2023,Albania,
 1,02/17/2023,Austria,148.0
 2,02/17/2023,Belgium,122.0
@@ -4320,3 +4321,43 @@
 37,04/22/2023,Turkey,
 38,04/22/2023,Ukraine,
 39,04/22/2023,United Kingdom,
+0,04/23/2023,Albania,
+1,04/23/2023,Austria,85.0
+2,04/23/2023,Belgium,85.0
+3,04/23/2023,Bosnia and Herz.,
+4,04/23/2023,Bulgaria,47.0
+5,04/23/2023,Croatia,86.0
+6,04/23/2023,Cyprus,
+7,04/23/2023,Czech Rep.,86.0
+8,04/23/2023,Denmark,78.0
+9,04/23/2023,Estonia,37.0
+10,04/23/2023,Finland,37.0
+11,04/23/2023,France,83.0
+12,04/23/2023,Georgia,
+13,04/23/2023,Germany,86.0
+14,04/23/2023,Greece,94.0
+15,04/23/2023,Hungary,85.0
+16,04/23/2023,Ireland,
+17,04/23/2023,Italy,123.0
+18,04/23/2023,Kosovo,
+19,04/23/2023,Latvia,37.0
+20,04/23/2023,Lithuania,49.0
+21,04/23/2023,Luxembourg,86.0
+22,04/23/2023,Malta,
+23,04/23/2023,Moldova,
+24,04/23/2023,Montenegro,
+25,04/23/2023,Netherlands,86.0
+26,04/23/2023,North Macedonia,
+27,04/23/2023,Norway,70.0
+28,04/23/2023,Poland,88.0
+29,04/23/2023,Portugal,50.0
+30,04/23/2023,Romania,47.0
+31,04/23/2023,Serbia,86.0
+32,04/23/2023,Slovakia,85.0
+33,04/23/2023,Slovenia,86.0
+34,04/23/2023,Spain,50.0
+35,04/23/2023,Sweden,40.0
+36,04/23/2023,Switzerland,87.0
+37,04/23/2023,Turkey,
+38,04/23/2023,Ukraine,
+39,04/23/2023,United Kingdom,
