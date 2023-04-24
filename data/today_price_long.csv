@@ -1,80 +1,41 @@
 country,price(eur/mwh)
 Albania,
-<<<<<<< Updated upstream
-Austria,86.0
-Belgium,96.0
+Austria,106.0
+Belgium,107.0
 Bosnia and Herz.,
 Bulgaria,94.0
-Croatia,88.0
+Croatia,105.0
 Cyprus,
-Czech Rep.,86.0
-Denmark,71.0
-Estonia,36.0
-Finland,36.0
-France,93.0
+Czech Rep.,105.0
+Denmark,96.0
+Estonia,73.0
+Finland,67.0
+France,106.0
 Georgia,
-Germany,84.0
-Greece,115.0
-Hungary,88.0
+Germany,105.0
+Greece,106.0
+Hungary,106.0
 Ireland,
-Italy,121.0
+Italy,113.0
 Kosovo,
-Latvia,36.0
-Lithuania,34.0
-Luxembourg,84.0
+Latvia,73.0
+Lithuania,84.0
+Luxembourg,105.0
 Malta,
 Moldova,
 Montenegro,
-Netherlands,92.0
+Netherlands,104.0
 North Macedonia,
-Norway,69.0
-Poland,116.0
-Portugal,79.0
-Romania,88.0
-Serbia,94.0
-Slovakia,87.0
-Slovenia,87.0
-Spain,79.0
-Sweden,36.0
-Switzerland,110.0
-=======
-Austria,85.0
-Belgium,85.0
-Bosnia and Herz.,
-Bulgaria,47.0
-Croatia,86.0
-Cyprus,
-Czech Rep.,86.0
-Denmark,78.0
-Estonia,37.0
-Finland,37.0
-France,83.0
-Georgia,
-Germany,86.0
-Greece,94.0
-Hungary,85.0
-Ireland,
-Italy,123.0
-Kosovo,
-Latvia,37.0
-Lithuania,49.0
-Luxembourg,86.0
-Malta,
-Moldova,
-Montenegro,
-Netherlands,86.0
-North Macedonia,
-Norway,70.0
-Poland,88.0
-Portugal,50.0
-Romania,47.0
-Serbia,86.0
-Slovakia,85.0
-Slovenia,86.0
-Spain,50.0
-Sweden,40.0
-Switzerland,87.0
->>>>>>> Stashed changes
+Norway,84.0
+Poland,126.0
+Portugal,96.0
+Romania,94.0
+Serbia,97.0
+Slovakia,106.0
+Slovenia,106.0
+Spain,92.0
+Sweden,71.0
+Switzerland,113.0
 Turkey,
 Ukraine,
 United Kingdom,
