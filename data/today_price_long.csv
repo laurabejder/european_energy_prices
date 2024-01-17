@@ -1,41 +1,41 @@
 country,price(eur/mwh)
 Albania,
-Austria,106.0
-Belgium,103.0
+Austria,100.0
+Belgium,93.0
 Bosnia and Herz.,
-Bulgaria,112.0
-Croatia,109.0
+Bulgaria,120.0
+Croatia,104.0
 Cyprus,
-Czech Rep.,106.0
-Denmark,121.0
-Estonia,149.0
-Finland,149.0
-France,103.0
+Czech Rep.,100.0
+Denmark,98.0
+Estonia,110.0
+Finland,110.0
+France,85.0
 Georgia,
-Germany,101.0
-Greece,105.0
-Hungary,111.0
-Ireland,118.0
-Italy,106.0
+Germany,100.0
+Greece,119.0
+Hungary,102.0
+Ireland,139.0
+Italy,101.0
 Kosovo,
-Latvia,149.0
-Lithuania,149.0
-Luxembourg,101.0
+Latvia,110.0
+Lithuania,111.0
+Luxembourg,100.0
 Malta,
 Moldova,
-Montenegro,106.0
-Netherlands,97.0
-North Macedonia,105.0
-Norway,99.0
-Poland,123.0
-Portugal,87.0
-Romania,112.0
-Serbia,105.0
-Slovakia,112.0
-Slovenia,108.0
-Spain,90.0
-Sweden,118.0
-Switzerland,106.0
+Montenegro,104.0
+Netherlands,98.0
+North Macedonia,114.0
+Norway,83.0
+Poland,111.0
+Portugal,27.0
+Romania,120.0
+Serbia,104.0
+Slovakia,101.0
+Slovenia,101.0
+Spain,27.0
+Sweden,85.0
+Switzerland,102.0
 Turkey,
 Ukraine,
 United Kingdom,
